@@ -4,7 +4,6 @@ const HomeLayout = () => {
   return (
     <div>
       {" "}
-      <nav>navbar</nav>
       <Outlet />
     </div>
   );
