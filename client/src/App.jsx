@@ -45,7 +45,7 @@ const router = createBrowserRouter([
             element: <Stats />,
           },
           {
-            path: "jobs",
+            path: "all-jobs",
             element: <AllJobs />,
           },
           {
